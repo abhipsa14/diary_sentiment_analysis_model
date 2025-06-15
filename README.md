@@ -1,7 +1,3 @@
-Here’s a sample `README.md` for your **Diary Sentiment Analysis Model**. It’s written to be clear, professional, and beginner-friendly, suitable for GitHub or documentation purposes.
-
----
-
 # 📝 Diary Sentiment Analysis Model
 
 A machine learning model designed to analyze the **sentiment** of diary-style text entries. This model helps users understand their emotional tone over time by classifying entries as **positive**, **negative**, or **neutral**.
@@ -133,6 +129,3 @@ This project is licensed under the MIT License.
 * Sentiment140 or Emotion Dataset
 * Diary/journal entry inspiration from \[your data source]
 
----
-
-Would you like a version that includes instructions for training from scratch, or one tailored for a Streamlit web app?
